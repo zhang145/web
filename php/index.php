@@ -2,6 +2,11 @@
 
 $acs = $_GET['cas'];
 
+
+echo '123456789';
+
+return;
+
 $zhengli = array(
 	array(
 		"name"=>"官网",
